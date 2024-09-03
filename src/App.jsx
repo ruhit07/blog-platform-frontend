@@ -4,10 +4,6 @@ import BlogList from './pages/BlogList';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import BlogDetails from './pages/BlogDetails';
-// import AddBlog from './pages/AddBlog';
-// import UpdateBlog from './pages/UpdateBlog';
-
-// import ProtectedRoute from './components/ProtectedRoute';
 
 function App() {
   const router = createBrowserRouter([
@@ -31,7 +27,6 @@ function App() {
 
   return (
     <RouterProvider router={router} />
-
   )
 }
 
