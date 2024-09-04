@@ -1,4 +1,4 @@
-# React Frontedn.
+# React Frontend.
 
 ## Manual Installation
 
